@@ -1,0 +1,4 @@
+streamlit
+pandas
+scikit-learn==1.1.1
+feature_engine==1.5.2
